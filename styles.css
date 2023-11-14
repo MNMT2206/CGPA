@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+form {
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+#result {
+    font-size: 18px;
+    margin-top: 20px;
+}
